@@ -3,7 +3,7 @@
 > A Retrieval-Augmented Generation (RAG) system that answers basic accounting questions using a curated knowledge base.
 
 
-
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hellobooks-ai-accounting-assistant.streamlit.app/)
 
 
 ---
