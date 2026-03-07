@@ -3,12 +3,14 @@
 > A Retrieval-Augmented Generation (RAG) system that answers basic accounting questions using a curated knowledge base.
 
 
-<img src="C:\Users\HP\OneDrive\Desktop\AI-Accounting-Assistant-main\Accounting-Assistant-main\screenshots\Acc_1.JPG"alt="AppScreenshot"width="500">
-<img src="C:\Users\HP\OneDrive\Desktop\AI-Accounting-Assistant-main\Accounting-Assistant-main\screenshots\Acc_2.JPG"alt="AppScreenshot"width="500">
-<img src="C:\Users\HP\OneDrive\Desktop\AI-Accounting-Assistant-main\Accounting-Assistant-main\screenshots\Acc_3.JPG"alt="AppScreenshot"width="500">
+
 
 
 ---
+
+![AppScreenshot](./screenshots/Acc_1.JPG)
+![AppScreenshot](./screenshots/Acc_2.JPG)
+![AppScreenshot](./screenshots/Acc_3.JPG)
 
 ## 🧾 Project Overview
 
